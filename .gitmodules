@@ -1,0 +1,42 @@
+[submodule "splash"]
+	path = splash
+	url = https://github.com/merelabs/mere-splash.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/merelabs/mere-shell.git
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/merelabs/mere-desktop.git
+[submodule "connect"]
+	path = connect
+	url = https://github.com/merelabs/mere-connect.git
+[submodule "window"]
+	path = window
+	url = https://github.com/merelabs/mere-window.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/merelabs/mere-utils.git
+[submodule "config"]
+	path = config
+	url = https://github.com/merelabs/mere-config.git
+[submodule "session"]
+	path = session
+	url = https://github.com/merelabs/mere-session.git
+[submodule "display"]
+	path = display
+	url = https://github.com/merelabs/mere-display.git
+[submodule "message"]
+	path = message
+	url = https://github.com/merelabs/mere-message.git
+[submodule "rpc"]
+	path = rpc
+	url = https://github.com/merelabs/mere-rpc.git
+[submodule "board"]
+	path = board
+	url = https://github.com/merelabs/mere-board.git
+[submodule "store"]
+	path = store
+	url = https://github.com/merelabs/mere-store.git
+[submodule "sticky"]
+	path = sticky
+	url = https://github.com/merelabs/mere-sticky.git
